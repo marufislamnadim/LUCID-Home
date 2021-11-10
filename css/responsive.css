@@ -1,0 +1,115 @@
+/*Responsive code starts here*/
+@media (min-width: 375px) and (max-width: 812px){
+			.menu .navbar-light .navbar-nav .nav-link.active {
+		    	background: url(../images/bor.png) left bottom no-repeat;
+		    	background-size: auto;
+			}
+
+			.menu .navbar-light .navbar-nav .nav-link:hover {
+    			background: url(../images/bor.png) left bottom no-repeat;
+    			background-size: auto;
+			}
+
+			.menu .navbar-light .navbar-nav .nav-link {
+			    color: tomato;
+			    font-size: 18px;
+			    font-weight: 600;
+			    text-transform: capitalize;
+			    margin-left: 20px;
+			    letter-spacing: 1px;
+			}
+
+			.banner {
+			    width: 100%;
+			    padding: 40px 0px 90px;
+			}
+			.banner h2 {
+			    font-size: 30px;
+			    line-height: 40px;
+			}
+
+			.banner p {
+			    font-size: 22px;
+			    line-height: 28px;
+			    font-weight: 400;
+			}
+			.inner-btn .btn-primary{
+				padding: 10px 10px;
+				text-transform: capitalize;
+				letter-spacing: 1px;
+				font-weight: 600;
+				font-size: 14px;
+			}
+			.inner-btn .btn-info{
+				padding: 10px 10px;
+				text-transform: capitalize;
+				letter-spacing: 1px;
+				font-weight: 600;
+				font-size: 14px;
+			}
+			.title {
+			    width: 100%;
+			    padding: 0px 0px 20px;
+			}
+			.inner-feature {
+			    width: 100%;
+			    padding: 10px 35px;
+			    text-align: center;
+			}
+			.about p {
+			    font-size: 13px;
+			    color: #999;
+			}
+			.about {
+			    width: 100%;
+			    padding: 40px 0px;
+			}
+			.about-2nd .title {
+			    margin-top: 0px;
+			}
+			.about-2nd {
+			    width: 100%;
+			    padding: 30px 0px;
+			}
+			.about-2nd .title h2{
+			    font-size: 30px;
+			}
+			.about-2nd .title h2 {
+			    line-height: 24px;
+			    margin-bottom: 5px;
+			}
+
+
+			.testimonial .owl-theme .item h4 {
+			    margin: 10px 20px;
+			}
+
+			.see-section .inner-btn .btn-info {
+			    padding: 10px 10px;
+			    text-transform: capitalize;
+			    letter-spacing: 1.5px;
+			    font-size: 16px;
+			}
+			.see-section .inner-btn .btn-primary {
+			    padding: 10px 10px;
+			    text-transform: capitalize;
+			    letter-spacing: 1.5px;
+			    font-size: 16px;
+			    
+			}
+			.see-section .col-lg-12{
+				margin-bottom: 20px;
+			}
+
+			.price .title h2 {
+			    font-size: 36px;
+			    line-height: 62px;
+			    margin-bottom: 1px;
+			}
+
+@media (min-width: 481px)and(max-width: 767px){
+
+}
+@media (min-width: 768px)and(max-width: 1000px){
+
+}
